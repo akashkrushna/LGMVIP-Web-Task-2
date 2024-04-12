@@ -7,7 +7,7 @@ This is a Get User Details Project which is built using HTML, CSS, JAVASCRIPT. I
 <br/>
 
 ## Features
--Fetch and show user data from the api - https://reqres.in/api/users<br/>
+-Fetch and show user data from the api - [https://reqres.in/api/users](https://reqres.in/api/users?page=1)<br/>
 <br/>
 <br/>
 
