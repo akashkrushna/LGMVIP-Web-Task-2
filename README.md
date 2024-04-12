@@ -2,7 +2,7 @@
 
 ## ⭐ Introduction
 
-This is a Get User Details Project which is built using HTML, CSS, JAVASCRIPT. It is responsive across all devices.
+This is a Get Users Details Project which is built using HTML, CSS, JAVASCRIPT. It is responsive across all devices.
 <br/>
 <br/>
 
