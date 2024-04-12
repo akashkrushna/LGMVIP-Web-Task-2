@@ -12,6 +12,6 @@ This is a Get User Details Project which is built using HTML, CSS, JAVASCRIPT. I
 <br/>
 
 ## 🔗 Links
-> ## CheckOut the website link 
+> ## CheckOut the website link https://lgmvip-web-task-2.netlify.app
 <br/>
 <br/>
