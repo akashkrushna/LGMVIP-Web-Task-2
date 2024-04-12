@@ -1,4 +1,4 @@
-# Get User 🚀
+# Get Users 🚀
 
 ## ⭐ Introduction
 
